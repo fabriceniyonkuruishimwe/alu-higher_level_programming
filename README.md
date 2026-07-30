@@ -1,3 +1,5 @@
-# ALU Higher Level Programming
+# Higher Level Programming
 
-Solutions for the ALU Higher Level Programming curriculum.
+This repository contains projects for the ALU Higher Level Programming curriculum,
+covering Python fundamentals including inheritance, input/output, exceptions,
+and more advanced object-oriented concepts.
